@@ -1,7 +1,7 @@
 {
   "name": "sameeh-razak-3d-port-website",
   "version": "0.1.1",
-  "homepage": "https://sameehrazak.com",
+  "homepage": "https://www.sameehrazak.com",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^4.1.0",
