@@ -9,8 +9,7 @@ export const Bio = {
   description:
     "I am a self-taught software developer and final year Computer Science student at the University of London. Passionate about AI and full stack development, I excel in technologies like React, Next.js, TypeScript, Python, and Node.js. As the co-founder of NeuroZings, I lead with innovation, creativity, and a commitment to continuous learning. Certified in ethical hacking, I enjoy solving problems and teaching others.",
   github: "https://github.com/sameehrazak",
-  resume:
-    "https://drive.google.com/file/d/1gf2F_2IPe6lFmDIeCwLiBXcNSa9rGfAR/view?usp=drivesdk",
+  resume:"",
   linkedin: "https://www.linkedin.com/in/sameeh-c-k/",
   x: "https://x.com/sameeh_razak",
   youtube:"https://youtube.com/sameehrazak",
