@@ -309,7 +309,7 @@ export const experiences = [
   {
     id: 2,
     img: "https://firebasestorage.googleapis.com/v0/b/sameehrazak-973f6.appspot.com/o/1631301023322.jpeg?alt=media&token=1525980b-5a98-4818-a219-8575f4681ed9",
-    role: "IT Support Engineer Intern",
+    role: "Operation & IT Support",
     company: "Lycatel",
     date: "Jun 2023 - Sep 2023",
     desc: "During my internship at Lycatel, I provided technical support for hardware and software issues, ensuring minimal downtime. I assisted with network administration tasks, including maintenance and troubleshooting, and supported the deployment and management of IT infrastructure, gaining hands-on experience with Linux and various network technologies.",
@@ -324,24 +324,7 @@ export const experiences = [
     ],
     doc: "https://firebasestorage.googleapis.com/v0/b/buckoid-917cf.appspot.com/o/WhatsApp%20Image%202023-05-05%20at%2012.07.39%20AM.jpeg?alt=media&token=9f0e1648-568b-422d-bd0b-1f125f722245",
   },
-  {
-    id: 3,
-    img: "https://firebasestorage.googleapis.com/v0/b/sameehrazak-973f6.appspot.com/o/sY-Vv6HHQWO2i87RsBsN4A.webp?alt=media&token=4245f18a-fe7a-49a7-b55a-f19005cdf2b4",
-    role: "Frontend Developer",
-    company: "ZedFine Technology",
-    date: "Jan 2021 - Jun 2022",
-    desc: "As a front end developer at ZedFine, I focused on developing responsive user interfaces for web applications using React and JavaScript. I ensured cross-browser compatibility and optimized performance, integrated front end components with backend APIs, and actively participated in code reviews to improve development workflows while collaborating closely with backend developers to deliver seamless web applications.",
-    skills: [
-      "ReactJS",
-      "HTML5",
-      "CSS",
-      "Material UI",
-      "JavaScript",
-      "Firebase",
-      "Git",
-    ],
-    doc: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/1691181448873.jpeg?alt=media&token=ee85eb8f-7247-43cd-9a1d-ce9f58ea62a6",
-  },
+
 ];
 
 export const education = [
