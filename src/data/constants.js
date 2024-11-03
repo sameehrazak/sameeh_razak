@@ -10,7 +10,7 @@ export const Bio = {
     "I am a self-taught software developer and final year Computer Science student at the University of London. Passionate about AI and full stack development, I excel in technologies like React, Next.js, TypeScript, Python, and Node.js. As the co-founder of NeuroZings, I lead with innovation, creativity, and a commitment to continuous learning. Certified in ethical hacking, I enjoy solving problems and teaching others.",
   github: "https://github.com/sameehrazak",
   resume:
-    "https://drive.google.com/file/d/1gf2F_2IPe6lFmDIeCwLiBXcNSa9rGfAR/view?usp=drivesdk",
+    "#resume",
   linkedin: "https://www.linkedin.com/in/sameeh-c-k/",
   x: "https://x.com/sameeh_razak",
   youtube:"https://youtube.com/sameehrazak",
@@ -269,9 +269,9 @@ export const experiences = [
   {
     id: 0,
     img: "https://firebasestorage.googleapis.com/v0/b/sameehrazak-973f6.appspot.com/o/NEUROZINGS.jpeg?alt=media&token=c66d3817-d54a-4ce4-b6d8-9540060b75f9",
-    role: "Co-Founder | SDE",
+    role: "Lead Software Developer | Co- Founder",
     company: "NeuroZings",
-    date: "Dec 2023 - Present",
+    date: "Jan 2024 - Present",
     desc: "As the co-founder and Full Stack developer at Neurozings, I lead the development of innovative IT solutions. I design and build web applications using React, Next.js, TypeScript, Node.js, Express.js, MongoDB, and Firebase. My role involves managing project lifecycles from planning to deployment, collaborating with clients to deliver tailored solutions, and playing a key role in business strategy and growth.",
     skills: [
       "ReactJS",
@@ -290,7 +290,7 @@ export const experiences = [
     img: "https://firebasestorage.googleapis.com/v0/b/sameehrazak-973f6.appspot.com/o/adox_solutions_logo.jpeg?alt=media&token=3bf81992-e3a8-45d8-90fd-abd8802cf128",
     role: "Fullstack Developer",
     company: "Adox Solution",
-    date: "Sep 2022 - Feb 2024",
+    date: "May 2023 - Oct 2023",
     desc: "At Adox Solution, I specialized in developing and customizing ERP projects using Odoo, React, Next.js, and MySQL. I successfully migrated backend services from Laravel to Node.js, enhancing system performance and scalability. I also collaborated with a team to build and customize open-source ERP solutions and developed an employee management application using React Native.",
     skills: [
       "ReactJS",
@@ -307,42 +307,7 @@ export const experiences = [
     ],
     doc: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/1696514649120.jpeg?alt=media&token=e7f6757b-edfa-4138-a692-d6709eeef3e2",
   },
-  {
-    id: 2,
-    img: "https://firebasestorage.googleapis.com/v0/b/sameehrazak-973f6.appspot.com/o/1631301023322.jpeg?alt=media&token=1525980b-5a98-4818-a219-8575f4681ed9",
-    role: "IT Support Engineer Intern",
-    company: "Lycatel",
-    date: "Jun 2023 - Sep 2023",
-    desc: "During my internship at Lycatel, I provided technical support for hardware and software issues, ensuring minimal downtime. I assisted with network administration tasks, including maintenance and troubleshooting, and supported the deployment and management of IT infrastructure, gaining hands-on experience with Linux and various network technologies.",
-    skills: [
-      "Linux",
-      "Network Admistration",
-      "Hardware & Software Support",
-      "Microsoft 365",
-      "Jira",
-      "IT infrastructure",
-      "Troubleshooting",
-    ],
-    doc: "https://firebasestorage.googleapis.com/v0/b/buckoid-917cf.appspot.com/o/WhatsApp%20Image%202023-05-05%20at%2012.07.39%20AM.jpeg?alt=media&token=9f0e1648-568b-422d-bd0b-1f125f722245",
-  },
-  {
-    id: 3,
-    img: "https://firebasestorage.googleapis.com/v0/b/sameehrazak-973f6.appspot.com/o/sY-Vv6HHQWO2i87RsBsN4A.webp?alt=media&token=4245f18a-fe7a-49a7-b55a-f19005cdf2b4",
-    role: "Frontend Developer",
-    company: "ZedFine Technology",
-    date: "Jan 2021 - Jun 2022",
-    desc: "As a front end developer at ZedFine, I focused on developing responsive user interfaces for web applications using React and JavaScript. I ensured cross-browser compatibility and optimized performance, integrated front end components with backend APIs, and actively participated in code reviews to improve development workflows while collaborating closely with backend developers to deliver seamless web applications.",
-    skills: [
-      "ReactJS",
-      "HTML5",
-      "CSS",
-      "Material UI",
-      "JavaScript",
-      "Firebase",
-      "Git",
-    ],
-    doc: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/1691181448873.jpeg?alt=media&token=ee85eb8f-7247-43cd-9a1d-ce9f58ea62a6",
-  },
+
 ];
 
 export const education = [
