@@ -9,8 +9,12 @@ export const Bio = {
   description:
     "I am a self-taught software developer and final year Computer Science student at the University of London. Passionate about AI and full stack development, I excel in technologies like React, Next.js, TypeScript, Python, and Node.js. As the co-founder of NeuroZings, I lead with innovation, creativity, and a commitment to continuous learning. Certified in ethical hacking, I enjoy solving problems and teaching others.",
   github: "https://github.com/sameehrazak",
+<<<<<<< HEAD
   resume:
     "#resume",
+=======
+  resume:"",
+>>>>>>> 59ca54fe0604f9b867208c5eb9d2f2b668731a6a
   linkedin: "https://www.linkedin.com/in/sameeh-c-k/",
   x: "https://x.com/sameeh_razak",
   youtube:"https://youtube.com/sameehrazak",
@@ -307,6 +311,27 @@ export const experiences = [
     ],
     doc: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/1696514649120.jpeg?alt=media&token=e7f6757b-edfa-4138-a692-d6709eeef3e2",
   },
+<<<<<<< HEAD
+=======
+  {
+    id: 2,
+    img: "https://firebasestorage.googleapis.com/v0/b/sameehrazak-973f6.appspot.com/o/1631301023322.jpeg?alt=media&token=1525980b-5a98-4818-a219-8575f4681ed9",
+    role: "Operation & IT Support",
+    company: "Lycatel",
+    date: "Jun 2023 - Sep 2023",
+    desc: "During my internship at Lycatel, I provided technical support for hardware and software issues, ensuring minimal downtime. I assisted with network administration tasks, including maintenance and troubleshooting, and supported the deployment and management of IT infrastructure, gaining hands-on experience with Linux and various network technologies.",
+    skills: [
+      "Linux",
+      "Network Admistration",
+      "Hardware & Software Support",
+      "Microsoft 365",
+      "Jira",
+      "IT infrastructure",
+      "Troubleshooting",
+    ],
+    doc: "https://firebasestorage.googleapis.com/v0/b/buckoid-917cf.appspot.com/o/WhatsApp%20Image%202023-05-05%20at%2012.07.39%20AM.jpeg?alt=media&token=9f0e1648-568b-422d-bd0b-1f125f722245",
+  },
+>>>>>>> 59ca54fe0604f9b867208c5eb9d2f2b668731a6a
 
 ];
 
